@@ -1,6 +1,6 @@
  ## Hi there 👋 My Name is Shahid Shaikh also known as snaptexas | codebriyani | blackhawk
  
- I’m currently working in an Startup Fostride an Sustainable Waste Management Startup as Embeded Systems Intern & Also looking at the backend and data pipeline 
+ I’m currently working in an Startup Fostride an Sustainable Waste Management Startup as Embeded Systems Intern & Also looking at the Backend Logic and Data Pipeline 
  
  I’m currently learning about Iot Systems | Datapipelines | Also participating in SIH (Smart India Hackathon)
  
