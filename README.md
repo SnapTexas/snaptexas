@@ -8,7 +8,7 @@
  
  Ask me about
  
- How to reach me [Email](mshahid00989800@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohommad-shahid-shaikh-054039325)
+ How to reach me Email: mshahid00989800@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohommad-shahid-shaikh-054039325)
  
  
  Fun fact:
