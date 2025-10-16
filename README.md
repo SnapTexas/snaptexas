@@ -13,7 +13,7 @@
  
  Fun fact:
  
- I have actively participated in a variety of events, achieving 2nd place in a coding competition at CHM College and successfully clearing the zonal rounds of Avishkar 
+ I have actively participated in a variety of programming events,hackathons achieving 2nd place in a coding competition at CHM College and successfully clearing the zonal rounds of Avishkar 
 <!--
 **SnapTexas/snaptexas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
